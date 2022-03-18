@@ -39,11 +39,11 @@
 
 ## Recent activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#16](https://github.com/crawlinknetworks/dropdown_plus/issues/16) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
-2. 🗣 Commented on [#218](https://github.com/darioielardi/flutter_speed_dial/issues/218) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
-3. 🗣 Commented on [#75](https://github.com/fluttercommunity/community/issues/75) in [fluttercommunity/community](https://github.com/fluttercommunity/community)
-4. 🗣 Commented on [#222](https://github.com/darioielardi/flutter_speed_dial/issues/222) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
-5. 🗣 Commented on [#217](https://github.com/darioielardi/flutter_speed_dial/issues/217) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+1. 🗣 Commented on [#3](https://github.com/crawlinknetworks/dropdown_plus/issues/3) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
+2. 💪 Opened PR [#17](https://github.com/crawlinknetworks/dropdown_plus/pull/17) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
+3. 🗣 Commented on [#3](https://github.com/crawlinknetworks/dropdown_plus/issues/3) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
+4. ❗️ Opened issue [#16](https://github.com/crawlinknetworks/dropdown_plus/issues/16) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
+5. 🗣 Commented on [#218](https://github.com/darioielardi/flutter_speed_dial/issues/218) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
 <!--END_SECTION:activity-->
 
 
