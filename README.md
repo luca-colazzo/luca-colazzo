@@ -39,11 +39,11 @@
 
 ## Recent activity:
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/koukibadr/Blurry/issues/20) in [koukibadr/Blurry](https://github.com/koukibadr/Blurry)
-2. 🗣 Commented on [#3](https://github.com/crawlinknetworks/dropdown_plus/issues/3) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
-3. 🗣 Commented on [#3](https://github.com/crawlinknetworks/dropdown_plus/issues/3) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
-4. 💪 Opened PR [#17](https://github.com/crawlinknetworks/dropdown_plus/pull/17) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
-5. 🗣 Commented on [#3](https://github.com/crawlinknetworks/dropdown_plus/issues/3) in [crawlinknetworks/dropdown_plus](https://github.com/crawlinknetworks/dropdown_plus)
+1. ❗️ Closed issue [#176](https://github.com/darioielardi/flutter_speed_dial/issues/176) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+2. ❗️ Closed issue [#187](https://github.com/darioielardi/flutter_speed_dial/issues/187) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+3. 🗣 Commented on [#187](https://github.com/darioielardi/flutter_speed_dial/issues/187) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+4. 🗣 Commented on [#227](https://github.com/darioielardi/flutter_speed_dial/issues/227) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+5. 🗣 Commented on [#228](https://github.com/darioielardi/flutter_speed_dial/issues/228) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
 <!--END_SECTION:activity-->
 
 
