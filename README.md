@@ -39,11 +39,11 @@
 
 ## Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#324](https://github.com/NearHuscarl/flutter_login/issues/324) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
-2. 💪 Opened PR [#23](https://github.com/Aman-Malhotra/animate_icons/pull/23) in [Aman-Malhotra/animate_icons](https://github.com/Aman-Malhotra/animate_icons)
-3. 🗣 Commented on [#9](https://github.com/Aman-Malhotra/animate_icons/issues/9) in [Aman-Malhotra/animate_icons](https://github.com/Aman-Malhotra/animate_icons)
-4. 🗣 Commented on [#13](https://github.com/Aman-Malhotra/animate_icons/issues/13) in [Aman-Malhotra/animate_icons](https://github.com/Aman-Malhotra/animate_icons)
-5. 🗣 Commented on [#14](https://github.com/Aman-Malhotra/animate_icons/issues/14) in [Aman-Malhotra/animate_icons](https://github.com/Aman-Malhotra/animate_icons)
+1. 🗣 Commented on [#258](https://github.com/darioielardi/flutter_speed_dial/issues/258) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+2. ❗️ Closed issue [#251](https://github.com/darioielardi/flutter_speed_dial/issues/251) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+3. 🗣 Commented on [#324](https://github.com/NearHuscarl/flutter_login/issues/324) in [NearHuscarl/flutter_login](https://github.com/NearHuscarl/flutter_login)
+4. 💪 Opened PR [#23](https://github.com/Aman-Malhotra/animate_icons/pull/23) in [Aman-Malhotra/animate_icons](https://github.com/Aman-Malhotra/animate_icons)
+5. 🗣 Commented on [#9](https://github.com/Aman-Malhotra/animate_icons/issues/9) in [Aman-Malhotra/animate_icons](https://github.com/Aman-Malhotra/animate_icons)
 <!--END_SECTION:activity-->
 
 
