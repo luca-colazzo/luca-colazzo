@@ -39,11 +39,11 @@
 
 ## Recent activity:
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#264](https://github.com/darioielardi/flutter_speed_dial/issues/264) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
-2. 🗣 Commented on [#262](https://github.com/darioielardi/flutter_speed_dial/issues/262) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
-3. 🗣 Commented on [#261](https://github.com/darioielardi/flutter_speed_dial/issues/261) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
-4. ❗️ Closed issue [#258](https://github.com/darioielardi/flutter_speed_dial/issues/258) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
-5. 🗣 Commented on [#198](https://github.com/darioielardi/flutter_speed_dial/issues/198) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+1. ❗️ Closed issue [#265](https://github.com/darioielardi/flutter_speed_dial/issues/265) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+2. 🗣 Commented on [#265](https://github.com/darioielardi/flutter_speed_dial/issues/265) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+3. ❗️ Closed issue [#264](https://github.com/darioielardi/flutter_speed_dial/issues/264) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+4. 🗣 Commented on [#218](https://github.com/darioielardi/flutter_speed_dial/issues/218) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
+5. ❗️ Closed issue [#218](https://github.com/darioielardi/flutter_speed_dial/issues/218) in [darioielardi/flutter_speed_dial](https://github.com/darioielardi/flutter_speed_dial)
 <!--END_SECTION:activity-->
 
 
